@@ -1,0 +1,2 @@
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\win-x64\publish\UninstallPro.pdb
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\win-x64\publish\UninstallPro.exe

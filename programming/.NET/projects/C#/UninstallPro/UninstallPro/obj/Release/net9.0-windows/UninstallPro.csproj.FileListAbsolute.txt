@@ -1,0 +1,15 @@
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.AssemblyInfoInputs.cache
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.AssemblyInfo.cs
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.csproj.CoreCompileInputs.cache
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.sourcelink.json
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\UninstallPro.exe
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\UninstallPro.deps.json
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\UninstallPro.runtimeconfig.json
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\UninstallPro.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\bin\Release\net9.0-windows\UninstallPro.pdb
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\refint\UninstallPro.dll
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.pdb
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\UninstallPro.genruntimeconfig.cache
+F:\study\Dev_Toolchain\programming\.NET\projects\C#\UninstallPro\UninstallPro\obj\Release\net9.0-windows\ref\UninstallPro.dll

@@ -1,0 +1,9 @@
+
+# >=95MB excluded by gitit v12 (GitHub limit)
+.NET/projects/C#/StartupMaster/dist/StartupMaster_v1.7_ZeroDelay/StartupMaster.exe
+.NET/projects/C#/StartupMaster/dist/StartupMaster_v1.7/StartupMaster.exe
+.NET/projects/C#/StartupMaster/dist/StartupMaster_v1.8_BulletproofFix/StartupMaster.exe
+.NET/projects/C#/StartupMaster/dist/StartupMaster_v1.9_Final/StartupMaster.exe
+.NET/projects/C#/StartupMaster/dist/StartupMaster_v2.0_WithIcons/StartupMaster.exe
+.NET/projects/C#/OpenClawRunner/dist/OpenClawRunner.exe
+.NET/projects/C#/StartupManagerClean/StartupManager/published/StartupManager.exe
